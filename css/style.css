@@ -110,3 +110,8 @@ dl{
     padding:50px;
 }
 /*End Resume Section*/
+/*Main Section*/
+#home-section{
+    height: calc(100vh - 226px) !important;
+}
+/*end Main Section*/
